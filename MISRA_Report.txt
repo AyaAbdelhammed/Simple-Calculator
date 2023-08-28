@@ -1,0 +1,2 @@
+No MISRA can be checked as we work on keil to use FreeRTOS for this project
+
